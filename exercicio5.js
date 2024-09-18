@@ -10,4 +10,4 @@ let precoFinal = precoOriginal (precoOriginal * desconto / 100);
 
 // Exibe o resultado no console
 
-console.log("O preço final com desconto é: R$" + precoFinal)
+console.log ("O preço final com desconto é: R$" + precoFinal);
