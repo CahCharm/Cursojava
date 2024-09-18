@@ -6,7 +6,7 @@ let desconto = 15; // Desconto em porcentagem
 
 //Cálculo do preço final
 
-let precoFinal = precoOriginal (precoOriginal + desconto / 100);
+let precoFinal = precoOriginal (precoOriginal * desconto / 100);
 
 // Exibe o resultado no console
 
